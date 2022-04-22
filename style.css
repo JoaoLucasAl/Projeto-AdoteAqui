@@ -20,6 +20,10 @@ header {
     color: #F9E4D4;
 }
 
+h1 {
+    font-family: 'Open Sans', sans-serif;
+}
+
 h1.nome {
     color: #D67D3E;
     font-family: 'Open Sans', sans-serif;
